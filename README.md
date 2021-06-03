@@ -2,6 +2,7 @@
 In this project the final aim is to transform the image into its cartoon form. Thus, we will build a python application that will transform an image into its cartoon using OpenCV.
 
 MODULES TO IMPORT:
+
 1)CV2: Imported to use OpenCV for image processing
 
 2)easygui: Imported to open a file box. It allows us to select any file from our system.
